@@ -1,0 +1,119 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 692a5d861e8fb144a8ad5e17c3ffae46, type: 3}
+  m_Name: Nightcall
+  m_EditorClassIdentifier: 
+  notes:
+  - noteBeat: 1
+    line: 0
+  - noteBeat: 1.5
+    line: 0
+  - noteBeat: 2
+    line: 1
+  - noteBeat: 2.5
+    line: 0
+  - noteBeat: 3
+    line: 1
+  - noteBeat: 3.5
+    line: 0
+  - noteBeat: 4
+    line: 1
+  - noteBeat: 4.5
+    line: 2
+  - noteBeat: 5
+    line: 3
+  - noteBeat: 5.5
+    line: 3
+  - noteBeat: 6
+    line: 2
+  - noteBeat: 6.5
+    line: 3
+  - noteBeat: 7
+    line: 2
+  - noteBeat: 7.5
+    line: 3
+  - noteBeat: 8
+    line: 2
+  - noteBeat: 8.5
+    line: 1
+  - noteBeat: 9
+    line: 0
+  - noteBeat: 9.5
+    line: 0
+  - noteBeat: 10
+    line: 1
+  - noteBeat: 10.5
+    line: 0
+  - noteBeat: 11
+    line: 1
+  - noteBeat: 11.5
+    line: 0
+  - noteBeat: 12
+    line: 1
+  - noteBeat: 12.5
+    line: 2
+  - noteBeat: 13
+    line: 3
+  - noteBeat: 13.5
+    line: 3
+  - noteBeat: 14
+    line: 2
+  - noteBeat: 14.5
+    line: 3
+  - noteBeat: 15
+    line: 2
+  - noteBeat: 15.5
+    line: 3
+  - noteBeat: 16
+    line: 2
+  - noteBeat: 16.5
+    line: 1
+  - noteBeat: 17
+    line: 0
+  - noteBeat: 17.5
+    line: 0
+  - noteBeat: 18
+    line: 1
+  - noteBeat: 18.5
+    line: 0
+  - noteBeat: 19
+    line: 1
+  - noteBeat: 19.5
+    line: 0
+  - noteBeat: 20
+    line: 1
+  - noteBeat: 20.5
+    line: 2
+  - noteBeat: 21
+    line: 0
+  - noteBeat: 21.5
+    line: 1
+  - noteBeat: 22
+    line: 0
+  - noteBeat: 22.5
+    line: 1
+  - noteBeat: 23
+    line: 0
+  - noteBeat: 23.5
+    line: 0
+  - noteBeat: 24
+    line: 0
+  - noteBeat: 24.5
+    line: 0
+  - noteBeat: 25
+    line: 0
+  - noteBeat: 25.5
+    line: 0
+  - noteBeat: 26
+    line: 0
+  - noteBeat: 1
+    line: 1

@@ -1,0 +1,136 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5c9aee7e548d5de44a366308702e981a, type: 3}
+  m_Name: "Supersonic 12-\u044F\u043D\u0432.-21 16-06-47"
+  m_EditorClassIdentifier: 
+  clip: {fileID: 8300000, guid: d3a2cd81cd0b7774089958ca0313e052, type: 3}
+  bpm: 181
+  useCurrentBpmMidiImport: 0
+  notes:
+  - noteName: 0
+    noteOctave: 7
+    time: 0.74585634
+    noteLength: 0.3314917
+    beatIndex: 2.25
+    beatLengthIndex: 1
+  - noteName: 0
+    noteOctave: 6
+    time: 1.5745857
+    noteLength: 0.3314917
+    beatIndex: 4.75
+    beatLengthIndex: 1
+  - noteName: 0
+    noteOctave: 9
+    time: 2.237569
+    noteLength: 0.3314917
+    beatIndex: 6.75
+    beatLengthIndex: 1
+  - noteName: 0
+    noteOctave: 8
+    time: 2.9834254
+    noteLength: 0.3314917
+    beatIndex: 9
+    beatLengthIndex: 1
+  - noteName: 0
+    noteOctave: 8
+    time: 3.8121548
+    noteLength: 0.3314917
+    beatIndex: 11.5
+    beatLengthIndex: 1
+  - noteName: 0
+    noteOctave: 8
+    time: 4.475138
+    noteLength: 0.3314917
+    beatIndex: 13.5
+    beatLengthIndex: 1
+  - noteName: 0
+    noteOctave: 7
+    time: 5.0552487
+    noteLength: 0.3314917
+    beatIndex: 15.25
+    beatLengthIndex: 1
+  - noteName: 0
+    noteOctave: 8
+    time: 5.5524864
+    noteLength: 0.3314917
+    beatIndex: 16.75
+    beatLengthIndex: 1
+  - noteName: 0
+    noteOctave: 7
+    time: 6.0497236
+    noteLength: 0.3314917
+    beatIndex: 18.25
+    beatLengthIndex: 1
+  - noteName: 0
+    noteOctave: 8
+    time: 6.5469613
+    noteLength: 0.3314917
+    beatIndex: 19.75
+    beatLengthIndex: 1
+  - noteName: 0
+    noteOctave: 6
+    time: 7.044199
+    noteLength: 0.3314917
+    beatIndex: 21.25
+    beatLengthIndex: 1
+  - noteName: 0
+    noteOctave: 8
+    time: 7.5414367
+    noteLength: 0.3314917
+    beatIndex: 22.75
+    beatLengthIndex: 1
+  - noteName: 0
+    noteOctave: 9
+    time: 8.038674
+    noteLength: 0.3314917
+    beatIndex: 24.25
+    beatLengthIndex: 1
+  - noteName: 0
+    noteOctave: 7
+    time: 8.535912
+    noteLength: 0.3314917
+    beatIndex: 25.75
+    beatLengthIndex: 1
+  - noteName: 0
+    noteOctave: 6
+    time: 9.033149
+    noteLength: 0.3314917
+    beatIndex: 27.25
+    beatLengthIndex: 1
+  - noteName: 0
+    noteOctave: 8
+    time: 9.613259
+    noteLength: 0.3314917
+    beatIndex: 29
+    beatLengthIndex: 1
+  - noteName: 0
+    noteOctave: 6
+    time: 10.110497
+    noteLength: 0.3314917
+    beatIndex: 30.5
+    beatLengthIndex: 1
+  - noteName: 0
+    noteOctave: 7
+    time: 10.690608
+    noteLength: 0.3314917
+    beatIndex: 32.25
+    beatLengthIndex: 1
+  useGenetator: 0
+  runtimeGenerate: 0
+  generator: {fileID: 0}
+  onsetSensitivity: 1
+  onsetData: []
+  onsetMin: 0
+  onsetMax: 0
+  haveBossMode: 1
+  bossModeStarted: 2
+  bossModeEnded: 10
