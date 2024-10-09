@@ -1,3 +1,4 @@
 <h3 align="left">One of my first projects, a rhythm-game with storyline about four friends trying to win the cup of the best jumper - J.U.M.P.</h3>
-There is a Frogue - one of character:
-![FROGUE](https://github.com/user-attachments/assets/700f5ad8-ed40-468d-95d9-e3b7a884d25a)
+I did all the code in the project alone (except thrid party like DOTween or Rhythm-game core asset).
+
+Builded and playable game on itch.io (Android only): <a href="https://night-coffee-studio.itch.io/jump">https://night-coffee-studio.itch.io/jump</a>
